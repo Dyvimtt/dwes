@@ -1,0 +1,2 @@
+Este proyecto utiliza la Poke API para obtener información de un Pokémon a través de su ID. Inicialmente, generamos aleatoriamente un ID utilizando nuestro archivo api.php. Luego, al presionar el botón, se activa una 
+función asíncrona que envía un número aleatorio a nuestro archivo api.php. Este archivo se encarga de realizar la solicitud a la Poke API con ese código, obtiene los datos y los muestra en la pantalla mediante código PHP.
